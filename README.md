@@ -18,4 +18,4 @@ Just like every app needs to be updated, so are programming languages. HTML5 is 
   + Figure
   + Figcaption
   + Iframe
-<a href='https://learn.co/lessons/hs-html5-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-html5-intro' title='HTML5 Semantic Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
